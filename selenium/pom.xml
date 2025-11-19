@@ -33,6 +33,13 @@
       <version>4.12.1</version>
     </dependency>
 
+    <!-- Selenium Java -->
+    <dependency>
+        <groupId>org.seleniumhq.selenium</groupId>
+        <artifactId>selenium-java</artifactId>
+        <version>4.23.0</version>
+    </dependency>
+
   </dependencies>
 
 </project>
